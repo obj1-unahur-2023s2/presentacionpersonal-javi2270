@@ -1,38 +1,14 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Presentacion Personal
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+ #### Me llamo **Javier Villafañe** tengo 39 años y soy de *Hurlingham* , vivo con mi mujer Emilce y mis dos hijos Thiago y Ulises.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+#### Trabajo en una farmacia hace 15 años, y quisiera poder dedicarme  a la programacion en u futuro no muy lejano.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+#### Me gusta mirar deporte, en especial futbol y peleas de ufc, series y peliculas.  
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![foto](./assets/)
 
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
 
 ![subir archivo de imagen](imagen.jpg)
