@@ -11,4 +11,4 @@
 ![foto](./assets/)
 
 
-![subir archivo de imagen](20200122_101203.jpg)
+![subir archivo de imagen](assets/20200122_101203.jpg)
